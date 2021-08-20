@@ -23,8 +23,8 @@ app.stage.addChild(rect)
 
 var ball = new PIXI.Graphics()
 ball.vel = {
-  x : 60,
-  y : 120
+  x : 110,
+  y : 210
 }
 ball.beginFill(0xFFFFFF)
 ball.drawCircle(0,0,8)
